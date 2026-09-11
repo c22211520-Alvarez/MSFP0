@@ -1,9 +1,9 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/Practica0MSF)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=c22211520-Alvarez/MSFP0)
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Información del estudiante
-Gabriela Gissele Alvarez Garcia \[C22211520]; c22211520@tijuana.tecnm.mx
+## Información de la estudiante
+Gabriela Gissele Alvarez Garcia [c22211520@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
@@ -37,7 +37,7 @@ Un circuito RLC representa un sistema de segundo orden que modeliza, de manera s
 Palabras clave: Circuito RLC; Controlador PID; Sistema respiratorio; Modelo matemático; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
-1. Cuaderno computacional de MATLAB [.mlx].
+1. Cuaderno computacional de MATLAB [.mlx y .pdf].
 2. Modelo de Simulink [.slx].
 3. Archivos de Python [.py].
 4. Imagen con los parámetros del controlador.
